@@ -1,2 +1,2 @@
-# cbs-ui.gh.allegrogroup.com-m
+# cbs-ui.gh.allegrogroup.com
 http://cbs-ui.gh.allegrogroup.com/
